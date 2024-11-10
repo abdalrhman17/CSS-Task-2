@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+}
+.title h2 {
+    font-size: 35px
+}
+
+
+.features .fea {
+    float:left;
+    width: 25%;
+    text-align: center;
+}
+.features .fea i {
+    background-color: yellow;
+    color: rgb(180, 180, 180);
+    font-size: 60px
+}
+.features .fea h3 {
+    font-size: 22px
+}
